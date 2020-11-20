@@ -1,6 +1,6 @@
 {
   "name": "lodash-vuejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "模块化、高性能的 Vuejs 实用工具库。",
   "main": "index.js",
   "scripts": {

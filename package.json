@@ -1,0 +1,26 @@
+{
+  "name": "lodash-vuejs",
+  "version": "1.0.0",
+  "description": "模块化、高性能的vuejs 实用工具库。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/og-liu/lodash-vuejs.git"
+  },
+  "keywords": [
+    "lodash",
+    "vuejs",
+    "vue",
+    "js",
+    "JavaScript"
+  ],
+  "author": "LiuKun <308880147@qq.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/og-liu/lodash-vuejs/issues"
+  },
+  "homepage": "https://github.com/og-liu/lodash-vuejs#readme"
+}
